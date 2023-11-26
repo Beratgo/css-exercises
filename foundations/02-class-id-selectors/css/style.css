@@ -1,0 +1,26 @@
+/* Style all odd-numbered HTML elements */
+
+.oddNumber{
+    background-color: hsl(350, 100%, 82%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Style individual HTML elements */
+
+#second{
+    color: hsl(240, 100%, 46%);
+    font-size: 36px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.third{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fourth{
+    background-color: lime;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
